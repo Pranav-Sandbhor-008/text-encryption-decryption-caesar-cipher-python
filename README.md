@@ -1,2 +1,49 @@
-# text-encryption-decryption-caesar-cipher-python
-A Python implementation of the Caesar Cipher algorithm for encrypting and decrypting text. It supports both uppercase and lowercase letters and ignores non-alphabetic characters. The program allows users to input messages and choose encryption or decryption modes. A great beginner project for learning cryptography.
+# Caesar Cipher Program
+
+This program **encrypts** and **decrypts** text using the **Caesar Cipher algorithm**, a simple substitution cipher that shifts characters in a message by a specified amount.
+
+## Features
+
+- **Encrypt Messages**: Converts plaintext into encrypted text by shifting characters.
+- **Decrypt Messages**: Converts encrypted text back into the original message.
+- **Handles uppercase and lowercase letters**.
+- **Ignores non-alphabetic characters** (punctuation, numbers, spaces remain unchanged).
+
+## How It Works
+
+1. **Input a Message**: Provide the text to be encrypted or decrypted.
+2. **Choose a Shift Value**: Enter an integer to define the shift amount.
+3. **Select Mode**: Choose `encrypt` to encode or `decrypt` to decode the message.
+
+## Running the Program
+
+1. Save the program code in a file named `caesar_cipher.py`.
+2. Run the script in a Python environment:
+   ```bash
+   python caesar_cipher.py
+3.Follow the on-screen prompts to encrypt or decrypt messages.
+
+## Requirements
+- Python 3.x is required to run this program.
+
+## Program Structure
+- **`caesar_cipher()`:** Performs the encryption or decryption logic.
+- **`get_input()`:** Collects user input for the message, shift value, and mode.
+- **`main()`:** The entry point of the program, allowing users to perform multiple operations.
+
+## Engage with Me
+
+Feel free to fork this repository, provide your insights, or contact me for discussions on encryption algorithms, programming, or any other related subjects.You can also open issues to report bugs or suggest new features. I'm always enthusiastic about learning and advancing together with the community!
+
+## Let's Connect!
+
+Dive into the repository, share your thoughts, or reach out for discussions on programming, algorithms, or any related topics. I'm excited to learn and grow together with like-minded individuals!
+
+## Contact Information
+
+For questions, feedback, or collaboration opportunities, feel free to reach out.
+
+- **Email:** [spranav.8112004@gmail.com](mailto:spranav.8112004@gmail.com)  
+- **LinkedIn**: [Pranav Sandbhor](https://www.linkedin.com/in/pranavsandbhor)
+  
+Thank you for your interest in this project. Happy coding! 🚀
